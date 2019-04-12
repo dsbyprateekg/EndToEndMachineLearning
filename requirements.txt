@@ -4,3 +4,4 @@ requests>=2.21.0
 Flask>=1.0.2
 gevent>=1.4.0
 Keras>=2.2.4
+tensorflow>=1.13.1
