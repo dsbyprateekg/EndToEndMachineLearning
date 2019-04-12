@@ -4,4 +4,3 @@ requests>=2.21.0
 Flask>=1.0.2
 gevent>=1.4.0
 Keras>=2.2.4
-torchvision-nightly<=0.2.1
